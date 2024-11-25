@@ -8,7 +8,7 @@ build:
 
 # Run the Docker container
 run:
-	docker run -p 5000:5000 $(IMAGE_NAME)
+	docker run -p 9000:9000 $(IMAGE_NAME)
 
 # Tag the Docker image for Docker Hub
 tag:
