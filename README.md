@@ -126,5 +126,7 @@ The GitHub Actions workflow automates the following:
    ![CI](imgs/ci.png)
 
 ## Docker Hub Image
+The Docker image:
+https://hub.docker.com/r/liujamie23/funny-fortune-app/tags
 
 ![DockerHub](imgs/docker.png)
