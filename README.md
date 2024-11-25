@@ -105,15 +105,15 @@ Make sure Docker is installed and running.
 
 1. **Homepage**:
    The initial screen invites users to click the button for their fortune.
-   ![Homepage](imgs/demo1.png)
+   ![Homepage](imgs/demo_1.png)
 
 2. **Fortune Display**:
    A random, funny fortune is displayed after clicking the button.
-   ![Fortune](imgs/demo2.png)
+   ![Fortune](imgs/demo_2.png)
 
 3. **New Fortune**:
    When the button is clicked again, the fortune changes to another random, funny message.
-   ![Fortune](imgs/demo3.png)
+   ![Fortune](imgs/demo_3.png)
 
 ---
 
