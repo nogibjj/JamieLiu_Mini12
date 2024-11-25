@@ -101,7 +101,7 @@ Make sure Docker is installed and running.
 
 ---
 
-## 📸 Demo Screenshots
+## Demo Screenshots
 
 1. **Homepage**:
    The initial screen invites users to click the button for their fortune.
